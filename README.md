@@ -40,6 +40,7 @@ Following are the various prospective of this research:
 
 
 **References:**
+
  1  Sanjay B. Patil et al. “LEAF DISEASE SEVERITY MEASUREMENT USING IMAGE PROCESSING”, International Journal of Engineering and Technology Vol.3 (5), 2011, 297-301,       DOI: 10.1109/ECS.2011.7090754
  2  B. Bhanu, J. Peng, “Adaptive integrated image segmentation and object recognition”, In IEEE Transactions on Systems, Man and Cybernetics, Part C, volume 30, pages     427–441, November 2000, DOI: 10.1109/5326.897070
  3  Keri Woods. ”Genetic Algorithms: Colour Image Segmentation Literature Review”, July 24, 2007, DOI: 10.1109/I2CT.2007.8226184
