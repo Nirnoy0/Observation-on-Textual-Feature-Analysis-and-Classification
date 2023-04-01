@@ -1,7 +1,8 @@
 # Observation-on-Textual-Feature-Analysis-and-Classification
+
 ### This Thesis observation/Presentation depend on Textual Feature Analysis and Classification Method for Plant Disease Detection!
 
-##The journal was published under the supervision of
+## The journal was published under the supervision of
 **Name: Dilpreet Kaur**
 and
 **Name: Dr. S.K MITTAL**
