@@ -2,15 +2,19 @@
 
 ### This Thesis observation/Presentation depend on Textual Feature Analysis and Classification Method for Plant Disease Detection!
 
-## The journal was published under the supervision of
-**Name: Dilpreet Kaur**
-and
-**Name: Dr. S.K MITTAL**
-in September 2019
 
-**Abstract:**The abstract describes a research study focused on plant disease detection using an image processing approach that involves textural feature extraction, segmentation, and classification. The study utilizes the GLCM algorithm to extract textural features from images, k-mean clustering algorithm for image segmentation, and Naïve Bayes classification for classification. The proposed algorithm aims to improve the accuracy of plant disease detection and classify data into multiple classes. The study concludes that the proposed algorithm increases accuracy by 10 to 15 percent and is analyzed in terms of various parameters such as accuracy, precision, recall, and execution time.
+## The journal was published under the supervision of
+  **Name: Dilpreet Kaur**
+    and
+  **Name: Dr. S.K MITTAL**
+    in September 2019
+
+
+**Abstract:** The abstract describes a research study focused on plant disease detection using an image processing approach that involves textural feature extraction, segmentation, and classification. The study utilizes the GLCM algorithm to extract textural features from images, k-mean clustering algorithm for image segmentation, and Naïve Bayes classification for classification. The proposed algorithm aims to improve the accuracy of plant disease detection and classify data into multiple classes. The study concludes that the proposed algorithm increases accuracy by 10 to 15 percent and is analyzed in terms of various parameters such as accuracy, precision, recall, and execution time.
+
 
 **KEYWORDS:** SVM, GLCM, K-mean and Naïve bayes classifier.
+
 
 **OBJECTIVES:**
 1. To study and analyze GLCM and multi-class SVM based technique for plant disease detection.
@@ -24,7 +28,7 @@ Modules
      time and high accuracy.
 
 
-**Conclusion:**The proposed research study focuses on the three essential phases of plant infection detection - feature extraction, segmentation, and classification. In the earlier approach, the GLCM algorithmic rule is used for the extraction of textural features, and the input images are segmented using k-mean clustering. However, the proposed study replaces the multi-class SVM classifier with the Naïve Bayes classifier for data classification into different classes. The proposed algorithm outperforms the existing approach in terms of accuracy and execution time, with the Naïve Bayes technique having higher accuracy and lower execution time than the SVM algorithm.
+**Conclusion:** The proposed research study focuses on the three essential phases of plant infection detection - feature extraction, segmentation, and classification. In the earlier approach, the GLCM algorithmic rule is used for the extraction of textural features, and the input images are segmented using k-mean clustering. However, the proposed study replaces the multi-class SVM classifier with the Naïve Bayes classifier for data classification into different classes. The proposed algorithm outperforms the existing approach in terms of accuracy and execution time, with the Naïve Bayes technique having higher accuracy and lower execution time than the SVM algorithm.
 
 
 **Future work (scope):**
